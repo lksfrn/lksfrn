@@ -3,13 +3,9 @@
 | Data Science Maverick & ARCK Labs Co-Founder |
 |----------------------------------------------|
 
-🔥 Driven by an insatiable thirst for knowledge and a passion for turning data into powerful insights, I'm Lukas Frana, a dynamic data science specialist and proud student at the prestigious Czech Technical University. My mission? To harness the power of data and unlock infinite possibilities for businesses around the world.
+🚀 As a passionate data science student at Czech Technical University and co-founder of ARCK Labs, I'm committed to empowering businesses through tailored, data-driven strategies. Our consulting firm thrives on merging advanced analytics and human ingenuity to help clients achieve long-term success.
 
-💼 As the co-founder of ARCK Labs, a trailblazing consulting company, I team up with a group of visionary experts to create bespoke, data-driven solutions that propel our clients to the forefront of their industries. We pride ourselves on our unique ability to merge cutting-edge technologies, advanced analytics, and human ingenuity to transform businesses and ensure long-term success.
-
-🚀 With a keen eye for innovation and a relentless pursuit of excellence, I am devoted to empowering companies to navigate the digital era with confidence and agility. As a result, ARCK Labs is rapidly gaining a reputation as a game-changer in the consulting sphere, providing unparalleled value to our clients.
-
-🌐 Connect with me to explore how we can collaborate and unleash the full potential of your business through the power of data, innovation, and strategy. Let's embark on an extraordinary journey together and redefine the future of success.
+Let's collaborate and harness the power of data to redefine your business's future. Connect with me to embark on an extraordinary journey together!
 
 [Website](https://lukasfrana.com/) | [Email](mailto:x@lukasfrana.com) | [GitHub](https://github.com/lksfrn) | [Twitter](https://twitter.com/lksfrn)
 
