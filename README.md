@@ -7,6 +7,6 @@
 
 🔥 Let's collaborate and harness the power of data to redefine your business's future. Connect with me to embark on an extraordinary journey together!
 
-[Website](https://lukasfrana.com/) | [Email](mailto:x@lukasfrana.com) | [GitHub](https://github.com/lksfrn) | [Twitter](https://twitter.com/lksfrn)
+[Website](https://lukasfrana.com/) | [Email](mailto:x@lukasfrana.com) | [GitHub](https://github.com/lksfrn) | [Twitter](https://twitter.com/xlukasfrana)
 
 <!-- [![Lukas Frana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lksfrn)](https://github.com/lksfrn) -->
